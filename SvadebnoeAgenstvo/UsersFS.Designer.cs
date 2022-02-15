@@ -106,7 +106,7 @@ namespace SvadebnoeAgenstvo
             this.Controls.Add(this.button1);
             this.Controls.Add(this.L1);
             this.Name = "UsersFS";
-            this.Text = "UsersFS";
+            this.Text = "UsersFs";
             this.Load += new System.EventHandler(this.UsersFS_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
